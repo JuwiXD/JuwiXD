@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
-**JuwiXD/JuwiXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![photo_2025-09-17_22-47-35](https://github.com/user-attachments/assets/2106e78f-7182-4ab0-a318-f20b4f19d437)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/cc20b3b5-3603-43c0-891b-3c7c3fe68f8b" />
-.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
